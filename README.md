@@ -48,9 +48,9 @@ The control objective is to regulate the output voltage from **12 V** to a **24 
 ## Repository Structure
 
 ```text
-├── BoostConverter_PI_PD_PID_Control.slx
-├── BoostConverter_Lead_Lag_Control.slx
-├── boost_converter_parameters.m
+├── Lead_Lag_Controller.slx
+├── PI_PD_PID_Controller.slx
+├── system_parameters.m
 ├── system_responses/
 │   ├── pi_response.png
 │   ├── pid_response.png
