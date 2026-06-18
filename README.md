@@ -52,6 +52,11 @@ The control objective is to regulate the output voltage from **12 V** to a **24 
 ├── BoostConverter_Lead_Lag_Control.slx
 ├── boost_converter_parameters.m
 ├── system_responses/
+│   ├── pi_response.png
+│   ├── pid_response.png
+│   ├── pd_response.jpg
+│   ├── lead_response.jpg
+│   └── lag_response.jpg
 └── README.md
 ```
 
